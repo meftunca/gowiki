@@ -6,12 +6,13 @@ Bu repoda yapılacak proje ile ilgili detaylar;
 
 Uygulama Tanımı : Kitap-Konum tabanlı mobil uygulama
 
-1- Temel Crud işlemleri ile birlikte socket destekli yapı
-2- Auth işlemleri
-3- Resim İşlemleri
-4- Test
+# 1. Aşama
+- Temel Crud işlemleri ile birlikte socket destekli yapı
+- Auth işlemleri
+- Resim İşlemleri
+- Test
 
-2. Aşama
-1- Graphql'e taşıma
-2- Mobil Arayüzü ile backend bağlantısı
-3- Web için backend bağlantısı
+# 2. Aşama
+- Graphql'e taşıma
+- Mobil Arayüzü ile backend bağlantısı
+- Web için backend bağlantısı
