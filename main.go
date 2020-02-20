@@ -1,8 +1,10 @@
 package main
 
-import "github.com/meftunca/gowiki/Routes/User"
+import (
+	"github.com/meftunca/gowiki/Routes"
+)
 
-func main(){
-	User.Get()
-	print("hello world")
+func main() {
+	Routes.RunApp()
+
 }
